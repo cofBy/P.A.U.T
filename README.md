@@ -1,22 +1,49 @@
-# P.A.U.T
-A procedural animation tool for unity that can make organic looking creatures.
+P.A.U.T
 
-This is my fourth try of doing something like this, After all these years this time I had what it took for me to do it.
+A procedural animation tool for Unity that can create organic-looking creatures.
 
-## First Try
-First time I saw this guy called "argonaut" do it on youtube and 10yo me thought he could do the same. Spoiler alert he didn't, He failed miserably.
+This is my fourth attempt at making something like this. After all these years, this time I finally had what it takes to pull it off.
 
-## third try (where did the second one go ??)
-fast forward to 12yo me on his third try when he noticed that argonaut's video had in the discreption a link this one https://zalo.github.io/blog/constraints/ that was the first time I learned what is normalizing vectors and my life changed for ever. Then I tried doing what the toturial said and gave up half way.
+What is Procedural Animation?
 
-## I did it
-Fast forward again to 13yo me When I tried to do AGAIN and I did it and it's buityful. After 21 days of the starting of this project I am writing a github repo about it and it feels amazing
-<img width="630" height="500" alt="image" src="https://github.com/user-attachments/assets/f11a107c-674e-4425-a994-cd83eaa3d106" />
+Procedural animation is a technique where animations are generated in real time using algorithms and code instead of being manually animated frame by frame.
 
-# why would you use it
-Had a reapeated animation kill the emersion for you before. If your answer is yes It sucks to be you.
-that's why Procedural Animation could be seen in a lot of games like : 
-- Rain World
-- Gang Beasts
-- Gibbon: Beyond the Trees
-- critter crosser
+First Try
+
+The first time I saw procedural animation was from a YouTuber called Argonaut.
+10-year-old me thought, “I can definitely do that.”
+
+Spoiler alert: I couldn’t.
+
+I failed miserably.
+
+Third Try (Where Did the Second One Go??)
+
+Fast forward to 12-year-old me trying again. While rewatching Argonaut’s video, I noticed a link in the description to this tutorial:
+
+Constraint Relaxation Tutorial
+
+That was the first time I learned about vector normalization, and it completely changed the way I thought about programming and math.
+
+I tried following the tutorial… and then gave up halfway through.
+
+I Did It
+
+Fast forward again to 13-year-old me trying one more time.
+
+And this time, it worked.
+
+After 21 days of working on this project, I’m now writing a GitHub repository about it, and honestly, it feels amazing.
+
+Why Would You Use It?
+
+Ever had immersion ruined because an animation kept repeating over and over again?
+
+Procedural animation helps solve that problem by generating movement dynamically, making characters feel more alive and natural.
+
+That’s why procedural animation can be seen in games like:
+
+Rain World
+Gang Beasts
+Gibbon: Beyond the Trees
+Critter Crosser
