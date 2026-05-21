@@ -33,7 +33,7 @@ After 21 days of working on this project, I’m now writing a GitHub repository 
 ![PAUT Screenshot](https://github.com/user-attachments/assets/f11a107c-674e-4425-a994-cd83eaa3d106)
 
 # Why Would You Use It?
-Ever had immersion ruined because an animation kept repeating over and over again?
+Ever had immersion ruined because an animation kept repeating over and over again? It suck to be you
 
 Procedural animation helps solve that problem by generating movement dynamically, making characters feel more alive and natural.
 
