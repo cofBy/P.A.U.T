@@ -8,14 +8,12 @@ Procedural animation is a technique where animations are generated in real time 
 
 ## First Try
 The first time I saw procedural animation was from a YouTuber called Argonaut.  
-10-year-old me thought, “I can definitely do that.”
+10yo me thought, “I can definitely do that.”
 
-Spoiler alert: I couldn’t.
-
-I failed miserably.
+Spoiler alert: I couldn’t. I failed miserably.
 
 ## Third Try (Where Did the Second One Go??)
-Fast forward to 12-year-old me trying again. While rewatching Argonaut’s video, I noticed a link in the description to this tutorial:
+Fast forward to 12yo me trying again. While rewatching Argonaut’s video, I noticed a link in the description to this tutorial:
 
 https://zalo.github.io/blog/constraints/
 
@@ -24,7 +22,7 @@ That was the first time I learned about vector normalization, and it completely 
 I tried following the tutorial… and then gave up halfway through.
 
 ## I Did It
-Fast forward again to 13-year-old me trying one more time.
+Fast forward again to 13yo me trying one more time.
 
 And this time, it worked.
 
