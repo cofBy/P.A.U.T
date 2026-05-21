@@ -1,4 +1,4 @@
-<img width="630" height="500" alt="image" src="https://github.com/user-attachments/assets/03f6624c-7f12-47d2-a630-944bae6cf805" /># P.A.U.T
+# P.A.U.T
 A procedural animation tool for unity that can make organic looking creatures.
 
 This is my fourth try of doing something like this, After all these years this time I had what it took for me to do it.
