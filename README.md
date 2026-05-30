@@ -40,3 +40,7 @@ That’s why procedural animation can be seen in games like:
 - Gang Beasts
 - Gibbon: Beyond the Trees
 - Critter Crosser
+
+# how to use it
+You can Download it from here on github or [here](https://cof99.itch.io/paut) on itch.io If you want that
+and also here's a [tutorial](https://www.youtube.com/watch?v=XhedlGjynRs&t=12s) that explains how to use this thing
