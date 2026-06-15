@@ -26,7 +26,7 @@ Fast forward again to 13yo me trying one more time.
 
 And this time, it worked.
 
-After 21 days of working on this project, I’m now writing a GitHub repository about it, and honestly, it feels amazing.
+After nearly 4 weeks of working on this project, I’m now writing a GitHub repository about it, and honestly, it feels amazing.
 
 ![PAUT Screenshot](https://github.com/user-attachments/assets/f11a107c-674e-4425-a994-cd83eaa3d106)
 
